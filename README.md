@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @MedhatHassan
+- Computer Engineering student 
+- AAST 
+- I’m interested in cyber security,Embedded systems and programming 
+- KNOWLEDGE : C/C++ - CCNA - MCSA - linux
+- 📫 you can reach me  via eng.medhathassanali@gmail.com
