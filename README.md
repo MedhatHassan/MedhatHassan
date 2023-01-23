@@ -2,6 +2,6 @@
 - Computer Engineering student 
 - AAST University
 - I’m interested in cyber security,Embedded systems and programming 
-- KNOWLEDGE : C/C++ - CCNA - MCSA - linux
+- KNOWLEDGE : C/C++ - CCNA - MCSA - linux - Fortigate firewall
 - 📫 you can reach me  via eng.medhathassanali@gmail.com
 - Codeforces : https://codeforces.com/profile/MedhatHassan
