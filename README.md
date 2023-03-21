@@ -3,7 +3,9 @@ Hi there 👋
 - CE @ AAST University 🎓
 - programing languages 💻 : C - C++ - C#(OOP) - java(OOP) - Js - Python 
 - Courses 📖 :  CCNA - MCSA - linux admin 1 & 2 - Fortigate firewall - Web penetration
-- Competitions 🏆 : top 100 ECPC 2022 - top 8 Dell hackathon (Hacktrick) 2023
+- Competitions 🏆 : 
+     top 5 of 250 team in Dell hackathon (Hacktrick) 2023
+     top 100 of 300 team in ECPC 2022 
 - 📫 you can reach me  via eng.medhathassanali@gmail.com
 - Codeforces : https://codeforces.com/profile/MedhatHassan
 - Vjudge : https://vjudge.net/user/Medhat_Hassan
