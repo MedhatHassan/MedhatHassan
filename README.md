@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1>Hi there 👋, I'm Medhat Hassan</h1> <h3 >A Cyber Security Engineer </h3> <br>CE @ AAST University 🎓<br>Courses 📖 : CCNA - MCSA - linux admin 1 & 2 - Fortigate firewall <br> python for hacking - Web penetration - algorithm & problem solving<br>Competitions 🏆 :<br>top 5 of 250 team in Dell hackathon (Hacktrick) 2023<br>top 100 of 300 team in ECPC 2022<br>
+<h1>Hi there 👋, I'm Medhat Hassan</h1> <h3 >A Cyber Security Engineer </h3> <br>CE @ AAST University 🎓<br>Certificates 📖 : CCNA - MCSA - linux admin 1 & 2 - Fortigate firewall <br> python for hacking - Web penetration - algorithm & problem solving<br>Competitions 🏆 :<br>top 5 of 250 team in Dell hackathon (Hacktrick) 2023<br>top 100 of 300 team in ECPC 2022<br>
 <h3 align="left">📫 you can reach me via eng.medhathassanali@gmail.com</h3> 
 <h3 align="left"><pre class="tab1">you can also reach me via </pre>  </h3> 
 <a href="https://linkedin.com/in/medhat-hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="medhat-hassan" height="50" width="50" /></a>
