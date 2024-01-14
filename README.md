@@ -14,3 +14,17 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=medhathassan&show_icons=true&locale=en&layout=compact" alt="medhathassan" /></p>
 
+
+# 💻 Tech Stack:
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Medhat Hassan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Medhat Hassan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Medhat Hassan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![Profile Visits](https://visitcount.itsvg.in/api?id=Medhat Hassan&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile Visits](https://komarev.com/ghpvc/?username=MedhatHassan&color=green)](https://github.com/MedhatHassan)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
