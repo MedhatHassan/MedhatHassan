@@ -2,9 +2,14 @@
 ### I'm Medhat Hassan (AKA m_1337) Web & Network penetration tester 
 Passionate computer engineering student with an ambition to become a cybersecurity expert. My journey into cybersecurity began during high school. Committed to daily self-improvement, I am determined to achieve mastery in cybersecurity. 
 Interested in Red Teaming , Reverse engineering , embedded systems and hardware hacking. <br>
-Currently : Computer Engineering student @ AAST University 🎓<br>
-Certificates 📖 : Practical ethical hacking - Reverse Engineering & Malware Analysis - Advanced web penetration - python for hacking - linux admin 1 & 2 -  MCSA - CCNA <br>
-Awards 🏆 : <br>Top 20 of 150 in Zinad IT Cybersecurity CTF 2024<br>Top 70 of 500 in Arab Regional Cybersecurity CTF 2023<br>Top 1 in fortinet attack and defence CTF 2023<br>Top 7 of 250 team in Dell hackathon (Hacktrick) 2023<br>Top 100 of 300 team in ECPC 2022<br>
+**Currently** : Computer Engineering student @ AAST University 🎓<br>
+**Certificates** 📖 : Practical ethical hacking - Reverse Engineering & Malware Analysis - Advanced web penetration - python for hacking - linux admin 1 & 2 -  MCSA - CCNA <br>
+### Awards 🏆 : 
+- Top 20 of 150 in Zinad IT Cybersecurity CTF 2024
+- Top 70 of 500 in Arab Regional Cybersecurity CTF 2023
+- Top 1 in fortinet attack and defence CTF 2023
+- Top 7 of 250 team in Dell hackathon (Hacktrick) 2023
+- Top 100 of 300 team in ECPC 2022<br>
 
 ## Reach me via
 
