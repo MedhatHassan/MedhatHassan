@@ -5,6 +5,7 @@ Interested in Red Teaming , Reverse engineering , embedded systems and hardware 
 **Currently** : Computer Engineering student @ AAST University 🎓<br>
 **Certificates** 📖 : CBBH - Practical ethical hacking - Reverse Engineering & Malware Analysis - Advanced web penetration - python for hacking - linux admin 1 & 2 -  MCSA - CCNA <br>
 ### Awards 🏆 : 
+- Top 15 of 255 in Cybertalents New Year CTF 2025
 - Top 20 of 150 in Zinad IT Cybersecurity CTF 2024
 - Top 70 of 500 in Arab Regional Cybersecurity CTF 2023
 - Top 1 in fortinet attack and defence CTF 2023
