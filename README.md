@@ -3,7 +3,7 @@
 Passionate computer engineering gaduate with an ambition to become a cybersecurity expert. My journey into cybersecurity began during high school. Committed to daily self-improvement, I am determined to achieve mastery in cybersecurity. 
 Interested in Red Teaming , Reverse engineering , IOT/embedded systems and hardware hacking. <br>
 **Currently** : Fresh Computer Engineering Graduate @ AAST University 🎓<br>
-**Certificates** 📖 : eWAPTX - CBBH - Practical ethical hacking - Reverse Engineering - Advanced web penetration - python for hacking - linux admin 1 & 2 -  MCSA - CCNA <br>
+**Certificates** 📖 : eWPTX - CBBH - Practical ethical hacking - Reverse Engineering - Advanced web penetration - python for hacking - linux admin 1 & 2 -  MCSA - CCNA <br>
 ### Awards 🏆 : 
 - Top 100 worldwide in Cybertalents platform 2025
 - Top 15 of 255 in Cybertalents New Year CTF 2025
