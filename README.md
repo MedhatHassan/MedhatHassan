@@ -1,17 +1,22 @@
-# Hi there 👋
-### I'm Medhat Hassan (AKA m_1337) Web & Network penetration tester 
-Passionate computer engineering gaduate with an ambition to become a cybersecurity expert. My journey into cybersecurity began during high school. Committed to daily self-improvement, I am determined to achieve mastery in cybersecurity. 
-Interested in Red Teaming , Reverse engineering , IOT/embedded systems and hardware hacking. <br>
-**Currently** : Fresh Computer Engineering Graduate @ AAST University 🎓<br>
-**Certificates** 📖 : eWPTX - CBBH - Practical ethical hacking - Reverse Engineering - Advanced web penetration - python for hacking - linux admin 1 & 2 -  MCSA - CCNA <br>
+## Medhat Hassan (AKA m_1337)
+**Offensive Security Engineer — Web | API | Mobile**
+
+Application Security Engineer specializing in Web, API, and Mobile penetration testing, with solid hands-on experience in exploitation, reporting, and AI-assisted vulnerability research.
+I also have foundational experience in Active Directory enumeration and exploitation.
+
+My journey into cybersecurity started back in high school, and since then I’ve been committed to daily learning and continuous improvement, aiming to reach mastery in offensive security.<br>
+
+**Interests** 💡 : Red Teaming • Reverse Engineering • IoT & Embedded Systems • Hardware Hacking <br>
+**Currently** : Cyber Security & Penetration Testing 9-month Program @ ITI <br>
+**Certificates** 📖 : eMAPT (In Progress) - eWPTX - CBBH - Practical ethical hacking - Reverse Engineering - Advanced web penetration - python for hacking - linux admin 1 & 2 -  MCSA - CCNA <br>
 ### Awards 🏆 : 
-- Top 100 worldwide in Cybertalents platform 2025
-- Top 15 of 255 in Cybertalents New Year CTF 2025
-- Top 20 of 150 in Zinad IT Cybersecurity CTF 2024
-- Top 70 of 500 in Arab Regional Cybersecurity CTF 2023
-- Top 1 in fortinet attack and defence CTF 2023
-- Top 7 of 250 team in Dell hackathon (Hacktrick) 2023
-- Top 100 of 300 team in ECPC 2022<br>
+- 🌍 Top 100 worldwide in Cybertalents platform 2025
+- 🚩 Top 15 of 255 in Cybertalents New Year CTF 2025
+- 🚩 Top 20 of 150 in Zinad IT Cybersecurity CTF 2024
+- 🚩 Top 70 of 500 in Arab Regional Cybersecurity CTF 2023
+- 🥇 Top 1 in fortinet attack and defence CTF 2023
+- 🔝 Top 7 of 250 team in Dell hackathon (Hacktrick) 2023
+- 🧠 Top 100 of 300 team in ECPC 2022<br>
 
 ## Reach me via
 
