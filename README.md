@@ -8,7 +8,7 @@ My journey into cybersecurity started back in high school, and since then I’ve
 
 **Interests** 💡 : Red Teaming • Reverse Engineering • IoT & Embedded Systems • Hardware Hacking <br>
 **Currently** : Cyber Security & Penetration Testing 9-month Program @ ITI <br>
-**Certificates** 📖 : eMAPT (In Progress) - eWPTX - CBBH - Practical ethical hacking - Reverse Engineering - Advanced web penetration - python for hacking - linux admin 1 & 2 -  MCSA - CCNA <br>
+**Certificates** 📖 : eMAPT - eWPTX - CBBH - Practical ethical hacking - Reverse Engineering - Advanced web penetration - python for hacking - linux admin 1 & 2 -  MCSA - CCNA <br>
 ### Awards 🏆 : 
 - 🌍 Top 100 worldwide in Cybertalents platform 2025
 - 🚩 Top 15 of 255 in Cybertalents New Year CTF 2025
