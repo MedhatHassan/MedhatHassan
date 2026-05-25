@@ -19,7 +19,7 @@ My journey into cybersecurity started back in high school, and since then I’ve
 - 🔝 Top 7 of 250 team in Dell hackathon (Hacktrick) 2023
 - 🧠 Top 100 of 300 team in ECPC 2022<br>
 
-### 🎤 Talks :
+### Talks 🎤 :
 - Speaker @ *IEEE 3SCEA2026* Conference 2026 — “The Reasoning Gap in Automated Vulnerability Detection”
 - Speaker @ *Cairo ICT* 2026 — “xVuln - integrated solution for secure development life cycle”
 
